@@ -1,0 +1,57 @@
+{
+  "name": "Café Q43",
+  "tagline": "Ein Ort der Begegnung und Gemeinschaft",
+  "description": "Café Q43 ist ein besonderer Ort in Berlin-Tempelhof, wo Menschen mit Suchtproblemen, deren Angehörige und alle anderen sich wohlfühlen und bei einer Tasse Kaffee zusammenkommen können. Wir bieten Speisen und Getränke zu sozial fairen Preisen in einem alkoholfreien Umfeld.",
+  "address": {
+    "street": "Kurfürstenstraße 43",
+    "city": "Berlin",
+    "district": "Tempelhof",
+    "postal_code": "12105",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 30 70767311",
+    "phone_display": "030 70 76 73 11",
+    "email": "cafeq43@tageszentrum-tempelhof.de",
+    "website": "www.cafeq43.de"
+  },
+  "hours": {
+    "monday": "15:00 - 19:00",
+    "tuesday": "15:00 - 19:00",
+    "wednesday": "15:00 - 19:00",
+    "thursday": "15:00 - 19:00",
+    "friday": "15:00 - 19:00",
+    "saturday": "12:00 - 19:00",
+    "sunday": "14:00 - 19:00"
+  },
+  "features": [
+    "Alkoholfreies Umfeld",
+    "Sozial faire Preise",
+    "Gemeinschaftsprojekt",
+    "Selbsthilfegruppen",
+    "Raum für private Feiern",
+    "Ehrenamtliche Mitarbeit möglich",
+    "Guter Kaffee"
+  ],
+  "social": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Café%20Q43&query_place_id=ChIJEXFtHk5FqEcRPTJOanTVLI4"
+  },
+  "menu": {
+    "coffee": [
+      {"name": "Filterkaffee", "price": "Fair"},
+      {"name": "Espresso", "price": "Fair"},
+      {"name": "Cappuccino", "price": "Fair"},
+      {"name": "Latte Macchiato", "price": "Fair"}
+    ],
+    "beverages": [
+      {"name": "Tee", "price": "Fair"},
+      {"name": "Heiße Schokolade", "price": "Fair"},
+      {"name": "Kaltgetränke", "price": "Fair"}
+    ],
+    "food": [
+      {"name": "Hausgemachte Kuchen", "price": "Fair"},
+      {"name": "Snacks", "price": "Fair"},
+      {"name": "Kleine Gerichte", "price": "Fair"}
+    ]
+  }
+}

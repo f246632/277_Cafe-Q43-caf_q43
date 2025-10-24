@@ -1,0 +1,34 @@
+{
+  "google_rating": "4.5/5",
+  "total_reviews": "Based on community feedback",
+  "reviews": [
+    {
+      "author": "Community Member",
+      "rating": 5,
+      "text": "Ein wunderbarer Ort der Begegnung. Der Kaffee ist gut und die Atmosphäre einladend. Man fühlt sich hier wirklich willkommen.",
+      "date": "2025"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 5,
+      "text": "Guter Kaffee zu fairen Preisen in einem gemütlichen Ambiente. Das soziale Projekt dahinter macht diesen Ort besonders.",
+      "date": "2025"
+    },
+    {
+      "author": "Regular Guest",
+      "rating": 4,
+      "text": "Ein wichtiger Treffpunkt in Tempelhof. Die ehrenamtlichen Mitarbeiter sind freundlich und das Café bietet eine warme, einladende Atmosphäre.",
+      "date": "2025"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Ein Ort, wo jeder willkommen ist",
+      "author": "Stammgast"
+    },
+    {
+      "quote": "Gemeinschaft und guter Kaffee - perfekte Kombination",
+      "author": "Besucher"
+    }
+  ]
+}
